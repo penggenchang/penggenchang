@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @penggenchang
 - 👀 I’m interested in signal and data analysis for biomedical and healthcare applications
-- 🌱 I’m currently learning python-based programming
+- 🌱 I’m currently learning python-based programming, data science, machine learning, etc..
 - 💞️ I’m looking to collaborate on finding research positions in academic or industrial fields.
 - 📫 How to reach me genchangp@gmail.com
 - 😄 Pronouns: genchang, Mr. Peng, or hopefully Dr. Peng when I graduate in 2025 Spring.
