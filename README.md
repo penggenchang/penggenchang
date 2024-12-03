@@ -10,7 +10,7 @@
 - ⚡ Fun fact: This is generated via GitHub, it's my first try!
 
 ## Coursera Certificates (Continue Learning!)
-- [Google Data Analytics] [Coursera SEXBB33C2TZ7.pdf](https://github.com/user-attachments/files/18000527/Coursera.SEXBB33C2TZ7.pdf)
+- [Google Data Analytics] [Coursera SEXBB33C2TZ7.pdf](https://github.com/user-attachments/files/18000527/Coursera.SEXBB33C2TZ7.pdf))
 
 
 - [IBM Data Science Professional] (![ibm-data-science-professional-certificate-v3](https://github.com/user-attachments/assets/a3a33101-df9c-4678-abe7-87f9c779c434)
