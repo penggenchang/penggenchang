@@ -10,7 +10,7 @@
 - ⚡ Fun fact: This is generated via GitHub, it's my first try!
 
 ## Coursera Certificates
-- [Google Data Analytics] [GoogleDataAnalyticsProfessionalCertificate_Badge20241014-7-uuoo9q.pdf](https://github.com/user-attachments/files/18000549/GoogleDataAnalyticsProfessionalCertificate_Badge20241014-7-uuoo9q.pdf)
+- [Google Data Analytics] ([GoogleDataAnalyticsProfessionalCertificate_Badge20241014-7-uuoo9q.pdf](https://github.com/user-attachments/files/18000549/GoogleDataAnalyticsProfessionalCertificate_Badge20241014-7-uuoo9q.pdf))
 
 - [IBM Data Science Professional] [IBMDataScienceProfessionalCertificateV3_Badge20241203-26-kuhf6m.pdf](https://github.com/user-attachments/files/18000552/IBMDataScienceProfessionalCertificateV3_Badge20241203-26-kuhf6m.pdf)
 ) 
