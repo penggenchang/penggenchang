@@ -19,7 +19,7 @@
  - Delivered a capstone project on Space X Rocket Launching Prodiction, including data collection, data wrangling, data visualization, data analysis and machine learning prodiction.
 
 
-## Coursera Certificates (Continue Learning)![Coursera](https://img.shields.io/badge/Coursera-Certificate-blue)
+## Coursera Certificates ![Coursera](https://img.shields.io/badge/Coursera-Certificate-blue)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)![GoogleDataAnalyticsProfessionalCertificate_Badge20241014-7-uuoo9q_00](https://github.com/user-attachments/assets/57ad85c9-9cee-4de7-b78b-80476c9a7d5f)
 
 -[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) ![IBMDataScienceProfessionalCertificateV3_Badge20241203-26-kuhf6m_00](https://github.com/user-attachments/assets/6ebeb581-034e-4b0f-80c2-fc9926e751da)
