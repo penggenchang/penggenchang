@@ -14,11 +14,10 @@
  - Extracted graph features and performed statistical/machine learning selections to identify notable markers with different patients.
  - Dessiminated in papers to be found at: [Google Scholar](https://scholar.google.com/citations?user=RaZJG78AAAAJ&hl=en)
 
-### [2. Coursera Projects for IBM Data Science](https://github.com/penggenchang/DTF-and-Seizure-Network.git)
- - Batch-Processed SEEG signals into Pandas files.
- - Utilized directed transfer function (DTF) to model the signal correlations among multiple channels as network graphs.
- - Extracted graph features and performed statistical/machine learning selections to identify notable markers with different patients.
- - Dessiminated in papers to be found at: [Google Scholar](https://scholar.google.com/citations?user=RaZJG78AAAAJ&hl=en)
+### [2. Coursera Projects for IBM Data Science](https://github.com/penggenchang/IBM-Data-Science-Professional-Coursera)
+ - Completed Python-based projects for IBM Data Science Professional Certificates
+ - Delivered a capstone project on Space X Rocket Launching Prodiction, including data collection, data wrangling, data visualization, data analysis and machine learning prodiction.
+
 
 ## Coursera Certificates (Continue Learning)![Coursera](https://img.shields.io/badge/Coursera-Certificate-blue)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)![GoogleDataAnalyticsProfessionalCertificate_Badge20241014-7-uuoo9q_00](https://github.com/user-attachments/assets/57ad85c9-9cee-4de7-b78b-80476c9a7d5f)
