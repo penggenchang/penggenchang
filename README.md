@@ -9,8 +9,16 @@
 
 ## Noteble Projects (More to Appearing)
 ### [1. SEEG-Based Seizure Network Modeling for Pre-Surgery Evaluation](https://github.com/penggenchang/DTF-and-Seizure-Network.git)
- - Processed SEEG signals into Pandas files 
- - Dessiminated in papers to be found at:
+ - Batch-Processed SEEG signals into Pandas files.
+ - Utilized directed transfer function (DTF) to model the signal correlations among multiple channels as network graphs.
+ - Extracted graph features and performed statistical/machine learning selections to identify notable markers with different patients.
+ - Dessiminated in papers to be found at: [Google Scholar](https://scholar.google.com/citations?user=RaZJG78AAAAJ&hl=en)
+
+### [2. Coursera Projects for IBM Data Science](https://github.com/penggenchang/DTF-and-Seizure-Network.git)
+ - Batch-Processed SEEG signals into Pandas files.
+ - Utilized directed transfer function (DTF) to model the signal correlations among multiple channels as network graphs.
+ - Extracted graph features and performed statistical/machine learning selections to identify notable markers with different patients.
+ - Dessiminated in papers to be found at: [Google Scholar](https://scholar.google.com/citations?user=RaZJG78AAAAJ&hl=en)
 
 ## Coursera Certificates (Continue Learning)![Coursera](https://img.shields.io/badge/Coursera-Certificate-blue)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)![GoogleDataAnalyticsProfessionalCertificate_Badge20241014-7-uuoo9q_00](https://github.com/user-attachments/assets/57ad85c9-9cee-4de7-b78b-80476c9a7d5f)
