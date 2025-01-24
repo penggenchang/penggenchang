@@ -23,7 +23,6 @@
  - Delivered a capstone project on Electronics Product Sales Data Storage and , including database storage, database design and connection, ERD data warehouse design, Apache Airflow monitoring, and machine learning prediction.
 
 
-## Coursera Certificates ![Coursera](https://img.shields.io/badge/Coursera-Certificate-blue)
 ### [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 ![Google Data Analytics Professional Certificate Badge](https://github.com/user-attachments/assets/57ad85c9-9cee-4de7-b78b-80476c9a7d5f)
 
@@ -35,7 +34,9 @@
 ---
 
 ### [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineering)
-![IBM Data Engineering Professional Certificate Badge](https://github.com/penggenchang/IBM-Data-Engineering-Professional-Coursera/blob/main/Coursera%20QBZNSRJOYXKC.pdf)
+![IBM Data Engineering Professional Certificate Badge](https://github.com/penggenchang/IBM-Data-Engineering-Professional-Coursera/blob/main/Coursera%20QBZNSRJOYXKC_00.png)
+
+[Download the Certificate](https://github.com/penggenchang/IBM-Data-Engineering-Professional-Coursera/blob/main/Coursera%20QBZNSRJOYXKC.pdf)
 
 
 <!---
