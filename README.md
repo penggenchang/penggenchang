@@ -24,11 +24,18 @@
 
 
 ## Coursera Certificates ![Coursera](https://img.shields.io/badge/Coursera-Certificate-blue)
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)![GoogleDataAnalyticsProfessionalCertificate_Badge20241014-7-uuoo9q_00](https://github.com/user-attachments/assets/57ad85c9-9cee-4de7-b78b-80476c9a7d5f)
+### [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+![Google Data Analytics Professional Certificate Badge](https://github.com/user-attachments/assets/57ad85c9-9cee-4de7-b78b-80476c9a7d5f)
 
--[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) ![IBMDataScienceProfessionalCertificateV3_Badge20241203-26-kuhf6m_00](https://github.com/user-attachments/assets/6ebeb581-034e-4b0f-80c2-fc9926e751da)
+---
 
--[IBM Data Engineering Certificate](https://github.com/user-attachments/assets/6ebeb581-034e-4b0f-80c2-fc9926e751da)[Download the Certificate](https://github.com/penggenchang/IBM-Data-Engineering-Professional-Coursera/blob/main/Coursera%20QBZNSRJOYXKC.pdf)
+### [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+![IBM Data Science Professional Certificate Badge](https://github.com/user-attachments/assets/6ebeb581-034e-4b0f-80c2-fc9926e751da)
+
+---
+
+### [IBM Data Engineering Professional Certificate](https://github.com/penggenchang/IBM-Data-Engineering-Professional-Coursera/blob/main/Coursera%20QBZNSRJOYXKC.pdf)
+![IBM Data Engineering Certificate Badge](https://github.com/user-attachments/assets/6ebeb581-034e-4b0f-80c2-fc9926e751da)
 
 
 <!---
