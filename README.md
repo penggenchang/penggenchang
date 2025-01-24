@@ -16,7 +16,11 @@
 
 ### [2. Coursera Projects for IBM Data Science](https://github.com/penggenchang/IBM-Data-Science-Professional-Coursera)
  - Completed Python-based projects for IBM Data Science Professional Certificates
- - Delivered a capstone project on Space X Rocket Launching Prodiction, including data collection, data wrangling, data visualization, data analysis and machine learning prodiction.
+ - Delivered a capstone project on Space X Rocket Launching Prodiction, including data collection, data wrangling, data visualization, data analysis and machine learning prediction.
+   
+### [3. Coursera Projects for IBM Data Engineering](https://github.com/penggenchang/IBM-Data-Engineering-Professional-Coursera)
+ - Completed Python-based projects for IBM Data Science Engineering Certificates
+ - Delivered a capstone project on Electronics Product Sales Data Storage and , including database storage, database design and connection, ERD data warehouse design, Apache Airflow monitoring, and machine learning prediction.
 
 
 ## Coursera Certificates ![Coursera](https://img.shields.io/badge/Coursera-Certificate-blue)
