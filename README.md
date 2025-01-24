@@ -28,6 +28,8 @@
 
 -[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) ![IBMDataScienceProfessionalCertificateV3_Badge20241203-26-kuhf6m_00](https://github.com/user-attachments/assets/6ebeb581-034e-4b0f-80c2-fc9926e751da)
 
+-[IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) ![IBMDataEngineering Capstone](https://github.com/user-attachments/assets/6ebeb581-034e-4b0f-80c2-fc9926e751da)
+
 
 <!---
 penggenchang/penggenchang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
