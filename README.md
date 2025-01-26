@@ -34,9 +34,7 @@
 ---
 
 ### [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineering)
-![IBM Data Engineering Professional Certificate Badge](https://github.com/penggenchang/IBM-Data-Engineering-Professional-Coursera/blob/main/Coursera%20QBZNSRJOYXKC_00.png)
-
-[Download the Certificate](https://github.com/penggenchang/IBM-Data-Engineering-Professional-Coursera/blob/main/Coursera%20QBZNSRJOYXKC.pdf)
+![IBM Data Engineering Professional Certificate Badge](https://github.com/penggenchang/IBM-Data-Engineering-Professional-Coursera/blob/main/IBMDataEngineeringProfessionalCertificateV3_Badge20250126-26-qds7gy_00.png)
 
 
 <!---
