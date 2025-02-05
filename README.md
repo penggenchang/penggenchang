@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Genchang Peng @penggenchang
 - 👀 I’m interested in machine learning, signal processing and data analysis for biomedical and healthcare applications
 - 💞️ I’m looking to finding research positions in academic or industrial fields.
-- 📫 How to reach me gxp170004@utdallas.edu
+- 📫 How to reach me gxp170004@utdallas.edu, or genchangp@gmail.com.
 - 😄 Pronouns: genchang, Mr. Peng, or hopefully Dr. Peng when I graduate in 2025 Spring.
 
 ## Noteble Projects (More to Appearing)
