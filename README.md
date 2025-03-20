@@ -7,7 +7,7 @@
 - 📫 How to reach me gxp170004@utdallas.edu, or genchangp@gmail.com.
 - 😄 Pronouns: genchang, Mr. Peng, or hopefully Dr. Peng when I graduate in 2025 Spring.
 
-## Research Projects (With UT Dallas and UTSW)
+## Research Projects (UT Dallas and UTSW)
 ### [1. SEEG-Based Seizure Network Modeling for Pre-Surgery Evaluation](https://github.com/penggenchang/DTF-and-Seizure-Network.git)
  - Batch-Processed SEEG signals into Pandas files.
  - Utilized directed transfer function (DTF) to model the signal correlations among multiple channels as network graphs.
