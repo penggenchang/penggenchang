@@ -15,7 +15,7 @@
  - Dessiminated in papers to be found at: [Google Scholar](https://scholar.google.com/citations?user=RaZJG78AAAAJ&hl=en)
 
 ## Open-Source Projects (More to Come!)
-### [1. AI-Driven Chatbot for SQL Learning](https://github.com/penggenchang/IBM-Data-Engineering-Professional-Coursera](https://github.com/penggenchang/sql-tutor-app))
+### [1. AI-Driven Chatbot for SQL Learning](https://github.com/penggenchang/sql-tutor-app)
  - Designed a LLM-based Chatbot for SQL learning and practice
  - Compared local model vs API, contained via Docker, deployed via Azure API, and reduced the querying time with low financial cost
 ### [2. Coursera Projects for IBM Data Science](https://github.com/penggenchang/IBM-Data-Science-Professional-Coursera)
