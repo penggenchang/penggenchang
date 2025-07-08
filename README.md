@@ -26,6 +26,7 @@
  - Completed Python-based projects for IBM Data Science Engineering Certificates
  - Delivered a capstone project on Electronics Product Sales Data Storage and , including database storage, database design and connection, ERD data warehouse design, Apache Airflow monitoring, and machine learning prediction.
 
+## Coursera Certificates (Continue Learning!)
 
 ### [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 ![Google Data Analytics Professional Certificate Badge](https://github.com/user-attachments/assets/57ad85c9-9cee-4de7-b78b-80476c9a7d5f)
