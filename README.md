@@ -28,9 +28,6 @@
 
 ## Coursera Certificates (Continue Learning!)
 
-### [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
-![Google Data Analytics Professional Certificate Badge](https://github.com/user-attachments/assets/57ad85c9-9cee-4de7-b78b-80476c9a7d5f)
-
 ---
 
 ### [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
@@ -38,8 +35,19 @@
 
 ---
 
+### [Microsoft Azure Machine Learning Certificate](https://www.coursera.org/learn/machine-learning-studio-azure)
+![Microsoft Azure ML Certificate Badge](https://github.com/penggenchang/penggenchang/blob/main/assets/Azure%20ML_2.png?raw=true)
+
+---
+
 ### [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineering)
 ![IBM Data Engineering Professional Certificate Badge](https://github.com/penggenchang/IBM-Data-Engineering-Professional-Coursera/blob/main/IBMDataEngineeringProfessionalCertificateV3_Badge20250126-26-qds7gy_00.png)
+
+---
+
+### [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+![Google Data Analytics Professional Certificate Badge](https://github.com/user-attachments/assets/57ad85c9-9cee-4de7-b78b-80476c9a7d5f)
+
 
 
 <!---
