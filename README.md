@@ -5,7 +5,7 @@
 - 👀 I’m interested in machine learning, signal processing and data analysis for biomedical and healthcare applications
 - 💞️ I’m looking to finding research positions in academic or industrial fields.
 - 📫 How to reach me gxp170004@utdallas.edu, or genchangp@gmail.com.
-- 😄 Pronouns: genchang, Mr. Peng, or officially Dr. Peng as I became a Doctor at May 2025 from UT Dallas :relaxed:.
+- 😄 Pronouns: genchang, or officially Dr. Peng as I became a Doctor at May 2025 from UT Dallas :relaxed:.
 
 ## Research Projects (UT Dallas and UTSW)
 ### [1. SEEG-Based Seizure Network Modeling for Pre-Surgery Evaluation](https://github.com/penggenchang/DTF-and-Seizure-Network.git)
