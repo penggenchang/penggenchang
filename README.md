@@ -1,4 +1,4 @@
-# Welcome to the Profile of Genchang Peng
+# Welcome to the Profile of Genchang Peng, Ph.D.
 
 ## Briefly Biography
 - 👋 Hi, I’m Genchang Peng @penggenchang
